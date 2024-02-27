@@ -3,7 +3,9 @@
 ## Installation
 
 '''
-git clone https://github.com/Nomnomaki/Todo-List.git
+
+    git clone https://github.com/Nomnomaki/Todo-List.git
+
 '''
 
 ## About & Features
